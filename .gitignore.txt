@@ -1,0 +1,12 @@
+*.h5
+*.hdf5
+*.csv
+*.pickle
+*.pkl
+*.jpg
+*.npy
+*.png
+*.model
+*.dat
+*.pyc
+*.json
